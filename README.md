@@ -7,7 +7,7 @@ public class KelvynSinhorini
 {
      public string Name = "Kelvyn Sinhorini";
      public string Acknowledgements = "XAML | .Net";
-     public string PrimarySkillset = "MVVM | Firebase";
+     public string PrimarySkillset = "MVVM | Firebase | Dependency Injection | API REST";
      public List<string> Languages = new List<string>() { "C#", "XAML" };
 }
 ```
