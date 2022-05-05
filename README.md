@@ -10,11 +10,19 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://open.spotify.com/user/proninjag?si=s9tsfvcyRk2b-TrVNJcDgQ&utm_source=copy-link)](https://open.spotify.com/user/proninjag?si=s9tsfvcyRk2b-TrVNJcDgQ&utm_source=copy-link)
 </h4>     
      
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+<!-- ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim -->
 
 <!--<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />-->
 
-## ⭐ **GitHub Estatísticas**
+## 💻 Tecnologias que estou estudando atualmente
+
+  - C#
+  - HTML
+  - CSS
+  - JavaScript
+  - MySQL
+
+## ⭐ **Meus dados no Github**
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
