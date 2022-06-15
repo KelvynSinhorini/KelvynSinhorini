@@ -11,18 +11,26 @@
 </h4>
 
 ## 💻 Tecnologias que estou estudando atualmente
+<div style="display: inline_block">
+    <img align="center" alt="Kelvyn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Kelvyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Kelvyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Kelvyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+    <img align="center" alt="Kelvyn-Xamarin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+    <img align="center" alt="Kelvyn-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<!--## 💻 Tecnologias que estou estudando atualmente
 
   - C#
   - HTML
   - CSS
   - JavaScript
-  - MySQL
+  - MySQL-->
 
 ## ⭐ **Meus dados no Github**
 <div>
   <a href="https://github.com/KelvynSinhorini">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=KelvynSinhorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynSinhorini&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvynSinhorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynSinhorini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
