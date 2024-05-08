@@ -1,6 +1,6 @@
 ### Olá! Me chamo Kelvyn Sinhorini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Sou desenvolvedor .Net FullStack na [VR](https://www.vr.com.br/)<br/>
+Sou desenvolvedor .Net FullStack na [Reply](https://www.reply.com/)<br/>
 Iniciei minha carreira aos 16 anos de idade e sou apaixonado pelo desenvolvimento mobile.
 
 #### Entre em contato
